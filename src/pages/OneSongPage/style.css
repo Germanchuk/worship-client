@@ -1,0 +1,11 @@
+.characters li {
+	display: flex;
+	padding: 15px;
+	border: solid 1px grey;
+}
+
+.el {
+	padding: 10px;
+border-radius: 6px;
+	border: solid 1px grey;
+}
